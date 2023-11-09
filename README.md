@@ -14,6 +14,6 @@ Good return from get_tenants.sh:
 ## Proposed usage
 * Use `get_tenants.sh` to populate a table of tenants
 * Use the `add_tenant.sh` from a button to execute a change
-* Use `get_tenants.sh` to pupulate a new table of tenants, now showing the new tenant
+* Use `get_tenants.sh` to populate a new table of tenants, now showing the new tenant
 * Use the `remove_tenant.sh` from a button to execute another change
 * Use `get_tenants.sh` to populate a new table of tenants showing that the new one was removed
